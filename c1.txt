@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 MPC
 BIPC
 CEC
+=======
+A
+B
+C
+D
+>>>>>>> fb
